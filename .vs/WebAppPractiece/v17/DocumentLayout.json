@@ -1,110 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\c#\\crudvalidations\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\areas\\admin\\viewmodels\\categoryvms\\getallcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\viewmodels\\categoryvms\\getallcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\c#\\crudvalidations\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\c#\\crudvalidations\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\c#\\crudvalidations\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\viewmodels\\basketvms\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:viewmodels\\basketvms\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\viewmodels\\headervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:viewmodels\\headervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\viewcomponents\\blogviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:viewcomponents\\blogviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\migrations\\20251224113448_addsettingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:migrations\\20251224113448_addsettingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\new folder (2)\\sessioncookiebasket\\migrations\\20251224111145_addblogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:migrations\\20251224111145_addblogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\c#\\crudvalidations\\areas\\admin\\viewmodels\\categoryvms\\getallcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:areas\\admin\\viewmodels\\categoryvms\\getallcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,28 +30,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-25T14:09:32.526Z",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:55:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:46:39.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T13:36:38.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GetAllCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\ViewModels\\CategoryVMs\\GetAllCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\ViewModels\\CategoryVMs\\GetAllCategoryVM.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\ViewModels\\CategoryVMs\\GetAllCategoryVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\ViewModels\\CategoryVMs\\GetAllCategoryVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\ViewModels\\CategoryVMs\\GetAllCategoryVM.cs",
               "RelativeToolTip": "Areas\\Admin\\ViewModels\\CategoryVMs\\GetAllCategoryVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,304 +86,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\CrudValidations\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-25T13:57:36.727Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-25T13:49:09.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:49:04.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:45:40.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "custom.js",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\wwwroot\\js\\custom.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\custom.js",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\wwwroot\\js\\custom.js",
-              "RelativeToolTip": "wwwroot\\js\\custom.js",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-25T13:30:05.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasketVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewModels\\BasketVMs\\BasketVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\BasketVMs\\BasketVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewModels\\BasketVMs\\BasketVM.cs",
-              "RelativeToolTip": "ViewModels\\BasketVMs\\BasketVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:13:01.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HeaderVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewModels\\HeaderVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\HeaderVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewModels\\HeaderVM.cs",
-              "RelativeToolTip": "ViewModels\\HeaderVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:56:43.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T12:18:09.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FooterViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewComponents\\FooterViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\FooterViewComponent.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewComponents\\FooterViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\FooterViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:15:30.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\Components\\Header\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Header\\Default.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\Components\\Header\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\Header\\Default.cshtml",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAiwIwAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T11:50:08.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HeaderViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewComponents\\HeaderViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\HeaderViewComponent.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewComponents\\HeaderViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\HeaderViewComponent.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:47:15.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LayoutService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Services\\LayoutService.cs",
-              "RelativeDocumentMoniker": "Services\\LayoutService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Services\\LayoutService.cs",
-              "RelativeToolTip": "Services\\LayoutService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:40:59.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T11:50:29.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20251224113448_addSettingsTable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Migrations\\20251224113448_addSettingsTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251224113448_addSettingsTable.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Migrations\\20251224113448_addSettingsTable.cs",
-              "RelativeToolTip": "Migrations\\20251224113448_addSettingsTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:34:48.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAnwDcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:06:19.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Controllers\\BasketController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:13:23.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Models\\Setting.cs",
-              "RelativeDocumentMoniker": "Models\\Setting.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Models\\Setting.cs",
-              "RelativeToolTip": "Models\\Setting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:33:26.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAowOIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T11:20:25.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\Blog\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T11:19:56.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BlogViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewComponents\\BlogViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\BlogViewComponent.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\ViewComponents\\BlogViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\BlogViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:13:25.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T11:54:16.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20251224111145_addBlogTable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Migrations\\20251224111145_addBlogTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251224111145_addBlogTable.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Migrations\\20251224111145_addBlogTable.cs",
-              "RelativeToolTip": "Migrations\\20251224111145_addBlogTable.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:11:46.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:00:29.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Models\\Blog.cs",
-              "RelativeDocumentMoniker": "Models\\Blog.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\SessionCookieBasket\\Models\\Blog.cs",
-              "RelativeToolTip": "Models\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T10:57:46.659Z"
             }
           ]
         }
